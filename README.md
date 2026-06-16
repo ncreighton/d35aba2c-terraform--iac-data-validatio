@@ -89,6 +89,7 @@ pytest tests/ -v
 MIT
 
 
+
 ---
 
 ## Free vs Pro
@@ -109,8 +110,9 @@ MIT
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://devforgetools.gumroad.com/l/yizct)**
+**[Get Pro Version](https://buy.stripe.com/7sY6oH6mXcYIe00avOcZf3k)**
 
+- [Buy Now (Stripe)](https://buy.stripe.com/7sY6oH6mXcYIe00avOcZf3k)
 - [Buy on Gumroad](https://devforgetools.gumroad.com/l/yizct)
 - [Buy on Whop](https://whop.com/terraform-iac-data-validation-and-enrichment-api)
 
